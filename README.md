@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-I'm a 19-year-old Information Systems student in my 4th semester at PUC Minas – Betim, and a developer focused on Backend Development and API development.
+I'm a **19-year-old Information Systems student in my 4th semester at PUC Minas – Betim**, and a developer focused on **Backend Development and API development**.
 
 My journey in technology started with a strong interest in programming, problem-solving, and understanding how software works behind the scenes. I'm always looking to learn new technologies, improve my engineering skills, and build practical solutions that solve real-world problems.
 
